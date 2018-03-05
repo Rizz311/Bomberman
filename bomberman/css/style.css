@@ -1,0 +1,12 @@
+body{
+  background-image: url("../img/maze.jpg");
+  background-repeat: repeat-x;
+}
+
+#bomberman{
+  width: 3%;
+  height: 40px;
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 40px;
+}
